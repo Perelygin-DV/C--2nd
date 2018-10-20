@@ -1,0 +1,6 @@
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\bin\Debug\Ex123.exe.config
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\bin\Debug\Ex123.exe
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\bin\Debug\Ex123.pdb
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\obj\Debug\Ex123.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\obj\Debug\Ex123.exe
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex123\obj\Debug\Ex123.pdb

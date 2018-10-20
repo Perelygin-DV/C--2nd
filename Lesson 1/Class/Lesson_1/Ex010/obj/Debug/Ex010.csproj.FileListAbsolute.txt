@@ -1,0 +1,7 @@
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\bin\Debug\Ex010.exe.config
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\bin\Debug\Ex010.exe
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\bin\Debug\Ex010.pdb
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\obj\Debug\Ex010.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\obj\Debug\Ex010.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\obj\Debug\Ex010.exe
+C:\Users\Sk\source\repos\LessonsCSharp\Lesson_1\Ex010\obj\Debug\Ex010.pdb
